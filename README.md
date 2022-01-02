@@ -20,7 +20,7 @@ The main class in the program is called `Model`. An instance of this class holds
 * `objective` - defines the target function of the problem (for minimization or maximization): an array of the coefficients of the objective function. 
 * `error` - a string for errors.
 
-An example for a problem:
+An example of a problem:
 >Maximize: f = 2*x[0] + 4*x[1]
 >
 >Subject to: -5*x[0] + 3*x[1] <= 7
