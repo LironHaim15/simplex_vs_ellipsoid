@@ -36,7 +36,7 @@ the problem above will be entered as:
 
 In order to run the optimizer - call the class method `run()`.
 
-There are some predefined tests in the code, commented in the main function, for example:
+There are some predefined tests in the code, commented in the main function (uncomment them in order to run them), for example:
 * Calculating the average iterations of 100 random problems from dimension `dim`.
 * Calculating the amount of iterations of solving Klee-Minty problem from dimension `dim`.
 * Calculating the amount of iterations of solving Klee-Minty problem from dimension `dim` after scaling the problem and converting its constraints to a slightly different porblem (reduction).
